@@ -2,7 +2,7 @@
 
 A proposta principal desse repositório é praticar HTML e CSS.
 
-## [](https://github.com/brunovinicius07/desafio-dio-instagram#-objetvo)🎯  Objetvo
+## [](https://github.com/brunovinicius07/desafio-dio-instagram#-objetvo)🎯  Objetivo
 
 -   Entender a interação do Flexbox e Grid com CSS.
 -   Clonar a página do Starbucks utilizando Flexbox e Grid.
